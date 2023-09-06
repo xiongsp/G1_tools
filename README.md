@@ -7,6 +7,11 @@
 1. 在Line3处指定成绩单excel文件路径
 2. 修改target变量为统计G1的目标学号
 
+```bash
+# only tested in python3.10
+pip install -r requirements.txt
+python do.py
+```
 ## Excel文件处理
 
 Excel原始文件含有大量无用数据，应当处理为以下格式：
