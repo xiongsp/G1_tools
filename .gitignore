@@ -5,3 +5,4 @@
 *.doc
 *.txt
 !requirements.txt
+.vscode/
